@@ -6,6 +6,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '.
 import { Calendar, MapPin, Users } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import Slider from 'react-slick';
+import React from 'react';
 
 export function Hero() {
   const [checkIn, setCheckIn] = useState('');

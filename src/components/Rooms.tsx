@@ -3,6 +3,7 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Badge } from './ui/badge';
 import { Wifi, Coffee, Car, Utensils, Users, Bed } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
+import React from 'react';
 
 const rooms = [
   {

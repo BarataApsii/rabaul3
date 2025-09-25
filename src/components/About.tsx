@@ -1,6 +1,7 @@
 import { Card, CardContent } from './ui/card';
 import { Badge } from './ui/badge';
 import { Star, Award, Users, Calendar } from 'lucide-react';
+import React from 'react';
 
 const stats = [
   { icon: Star, value: '4.9', label: 'Guest Rating' },

@@ -1,6 +1,7 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card';
 import { Waves, Utensils, Dumbbell, Wifi, Car, Coffee, Users, Sparkles } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
+import React from 'react';
 
 const amenities = [
   {
